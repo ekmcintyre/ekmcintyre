@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+  I am a recent graduate of Arizona State University passionate about research design, User Research, data analysis, travel, and Musical Theatre.
+
+## GitHub Websites
+
+  - https://r-class.github.io/cpp-528-fall-2021-group-01/
+
+
 <!--
 **ekmcintyre/ekmcintyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
