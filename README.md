@@ -7,6 +7,11 @@
   - [CPP 528 Group 1 Website](https://r-class.github.io/cpp-528-fall-2021-group-01/)
 
 
+### Class Projects
+
+  - Project Management - [CPP 528 Fall 2021 Group 1](https://github.com/R-Class/cpp-528-fall-2021-group-01)
+
+
 <!--
 **ekmcintyre/ekmcintyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
