@@ -4,7 +4,7 @@
 
 ## GitHub Websites
 
-  - [CPP %28 Group 1 Website](https://r-class.github.io/cpp-528-fall-2021-group-01/)
+  - [CPP 528 Group 1 Website](https://r-class.github.io/cpp-528-fall-2021-group-01/)
 
 
 <!--
