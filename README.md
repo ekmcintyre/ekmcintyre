@@ -4,7 +4,7 @@
 
 ## GitHub Websites
 
-  - https://r-class.github.io/cpp-528-fall-2021-group-01/
+  - (CPP %28 Group 1 Website)[https://r-class.github.io/cpp-528-fall-2021-group-01/]
 
 
 <!--
@@ -20,4 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Link to with instructions to create, remove, and edit this README file: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme#adding-a-profile-readme 
 -->
